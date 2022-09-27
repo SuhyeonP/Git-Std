@@ -1,4 +1,10 @@
 1. git commit 합치가용1
 2. 합치기용2
 3. squash test
+4. squahs test2
+5. only commit
+
+
+
+
 
