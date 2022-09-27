@@ -7,6 +7,8 @@
 6. jump 1
 7. jump 2
 
+8. JUMP!
+
 
 
 
