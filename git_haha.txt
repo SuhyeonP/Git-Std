@@ -4,6 +4,8 @@
 4. squahs test2
 5. only commit
 
+6. jump 1
+7. jump 2
 
 
 
